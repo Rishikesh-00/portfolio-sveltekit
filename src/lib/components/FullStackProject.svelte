@@ -11,14 +11,14 @@
         href:"https://hyy-chat.netlify.app",
         git:"https://github.com/Rishikesh-00/chatApp-client.git",
       },
-      // {
-      //   image: Astra,
-      //   title: "Marketing",
-      //   description:
-      //     "It’s easier to reach your savings goals when you have the right savings account. It’s easier to reach your savings goals when you have the right savings account.",
-      //     href:"https://afina-clone.netlify.app/",
-      //     git:"",
-      // },
+      {
+        image: "./projectImages/FullStack/Foodie.png",
+        title: "Food Delivey app",
+        description:
+          "It’s easier to reach your savings goals when you have the right savings account. It’s easier to reach your savings goals when you have the right savings account.",
+          href:"https://afina-clone.netlify.app/slfi87",
+          git:"https://github.com/Rishikesh-00/foodie.git",
+      },
       // {
       //   image: Hosterr,
       //   title: "Development",
