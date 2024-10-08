@@ -1,10 +1,10 @@
 <script>
-  import Zelt from "$lib/projectImages/frontend/ZeltClone.png"
-  import Astra from "$lib/projectImages/frontend/astra.png"
-  import Hosterr from "$lib/projectImages/frontend/hosterr.png"
+  // import Zelt from "$lib/projectImages/frontend/ZeltClone.png"
+  // import Astra from "$lib/projectImages/frontend/astra.png"
+  // import Hosterr from "$lib/projectImages/frontend/hosterr.png"
     const portfolioList = [
       {
-        image: Zelt,
+        image: "./projectImages/frontend/zeltClone.png",
         title: "Branding",
         description:
           "Sed ut in perspiciatis unde omnis iste natus error sit on i tatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.",
@@ -12,7 +12,7 @@
         git:"https://github.com/Rishikesh-00/ZeltClone.git",
       },
       {
-        image: Astra,
+        image: "./projectImages/frontend/astra.png",
         title: "Marketing",
         description:
           "It’s easier to reach your savings goals when you have the right savings account. It’s easier to reach your savings goals when you have the right savings account.",
@@ -20,7 +20,7 @@
           git:"https://github.com/Rishikesh-00/Landing_page_lapa_ninja-1.git",
       },
       {
-        image: Hosterr,
+        image: "./projectImages/frontend/hosterr.png",
         title: "Development",
         description:
           "Vitae bibendum egestas magna sit elit non. Netus volutpat dignissim pharetra felis. Orci commodo mauris digital industry is booming adipiscing semper amet.",

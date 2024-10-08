@@ -1,8 +1,8 @@
 <script>
-  import Desktop from "$lib/projectImages/desktop/desktop.jpeg"
+  // import Desktop from "$lib/projectImages/desktop/desktop.jpeg"
     const portfolioList = [
       {
-        image: Desktop,
+        image: "./projectImages/Desktop/desktop.jpeg",
         title: "Branding",
         description:
           "Sed ut in perspiciatis unde omnis iste natus error sit on i tatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.",

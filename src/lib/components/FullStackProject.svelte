@@ -1,10 +1,10 @@
 <script>
-  import Chatapp from "$lib/projectImages/FullStack/Chatapp.png"
+  // import Chatapp from "$lib/projectImages/FullStack/Chatapp.png"
   // import Astra from "$lib/projectImages/frontend/astra.png"
   // import Hosterr from "$lib/projectImages/frontend/hosterr.png"
     const portfolioList = [
       {
-        image: Chatapp,
+        image: "./projectImages/FullStack/Chatapp.png",
         title: "Real-time Chat Application",
         description:
           "",
