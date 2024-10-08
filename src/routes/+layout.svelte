@@ -7,6 +7,7 @@
     import Projects from "../lib/components/Projects.svelte";
     import Skills from "../lib/components/Skills.svelte";
     import SocialLinks from "../lib/components/SocialLinks.svelte";
+    import Test from "../lib/components/test.svelte";
   </script>
   <Navbar/>
   <SocialLinks/>
@@ -15,4 +16,5 @@
   <Projects/>
   <Skills></Skills>
   <Contact></Contact>
+  <!-- <Test></Test> -->
   <slot />

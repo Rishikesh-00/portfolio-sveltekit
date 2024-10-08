@@ -1,3 +1,12 @@
+<script>
+    import { onMount } from "svelte";
+
+
+    onMount(() => {
+      AOS.init({ duration: 1000 });
+    });
+</script>
+
 <div id="education" class=" bg-gradient-to-b from-gray-800 to-black w-full h-full">
     <div class="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
       <div>
@@ -16,7 +25,7 @@
                     <h2>EDUCATION</h2>
                 </header>
                 <div class="border-l-2 border-gray-300  px-8 space-y-5">
-                    <div
+                    <div data-aos="zoom-in" data-aos-duration="500"
                         class="relative rounded-md p-5 border  border-gray-200 bg-gray-800  shadow-sm hover:shadow-md transition-all duration-300"
                     >
                         <div
@@ -33,7 +42,7 @@
                           <span class="text-xs">Aggregate: 8.59 CGPA (upto 2<sup>nd sem</sup>)</span>
                         </p>
                     </div>
-                    <div
+                    <div data-aos="zoom-in" data-aos-duration="500"
                         class="relative rounded-md p-5 border border-gray-200 bg-gray-800 shadow-sm hover:shadow-md transition-all duration-300"
                     >
                         <div
@@ -50,7 +59,7 @@
                             <span class="text-xs"> Aggregate: 64.4%</span>
                         </p>
                     </div>
-                    <div
+                    <div data-aos="zoom-in" data-aos-duration="500"
                         class="relative rounded-md p-5 border border-gray-200 bg-gray-800 shadow-sm hover:shadow-md transition-all duration-300"
                     >
                         <div
@@ -67,7 +76,7 @@
                             <span class="text-xs">Aggregate: 68.6%</span>
                         </p>
                     </div>
-                    <div
+                    <div data-aos="zoom-in" data-aos-duration="500"
                         class="relative rounded-md p-5 border border-gray-200 bg-gray-800 shadow-sm hover:shadow-md transition-all duration-300"
                     >
                         <div
@@ -95,7 +104,7 @@
                     <h2>INTERNSHIPS</h2>
                 </header>
                 <div class="border-l-2 border-gray-300 px-8 space-y-5">
-                    <div
+                    <div data-aos="zoom-in" data-aos-duration="500"
                         class="relative rounded-md p-5 border border-gray-200 bg-gray-800 shadow-sm hover:shadow-md transition-all duration-300"
                     >
                         <div
@@ -113,7 +122,7 @@
                             Working with SvelteKit, Tailwind css, Firebase, Nodejs
                         </p>
                     </div>
-                    <div
+                    <div data-aos="zoom-in" data-aos-duration="500"
                         class="relative rounded-md p-5 border border-gray-200 bg-gray-800 shadow-sm hover:shadow-md transition-all duration-300"
                     >
                         <div

@@ -1,4 +1,6 @@
 <script>
+    import { onMount } from "svelte";
+
   // import Zelt from "$lib/projectImages/frontend/ZeltClone.png"
   // import Astra from "$lib/projectImages/frontend/astra.png"
   // import Hosterr from "$lib/projectImages/frontend/hosterr.png"
@@ -28,6 +30,10 @@
         git:"https://github.com/Rishikesh-00/tailwind.git",
       },
     ];
+
+    // onMount(() => {
+    //   AOS.init({ duration: 1000 });
+    // });
   </script>
   
   <section class="text-white">
@@ -36,7 +42,7 @@
   
       <div class="grid grid-cols-6 gap-6 gap-y-8 lg:gap-y-0 max-w-7xl mx-auto">
         {#each portfolioList as portfolio, i}
-          <div class="col-span-6 md:col-span-3 lg:col-span-2" key={i}>
+          <div data-aos="zoom-in" data-aos-duration="500" class="col-span-6 md:col-span-3 lg:col-span-2" key={i}>
             <div class="relative shadow-xl border border-white hover:-translate-y-1 duration-300 rounded-xl">
               <div class="bg-gray-800 flex rounded-xl p-6 lg:p-12 pt-0 lg:pt-0 relative object-cover">
                 <img
