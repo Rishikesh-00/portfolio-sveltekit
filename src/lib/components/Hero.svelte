@@ -48,7 +48,7 @@
         <div class="m-3">
           <a
             href={Resume}
-            download="resume.pdf"
+            download="Rishikesh-Resume.pdf"
             class="bg-white text-gray-800 font-bold rounded border-b-2 border-green-500 hover:border-green-600 hover:bg-green-500 transition-all duration-300 hover:text-white shadow-md py-2 px-6 inline-flex items-center"
             data-aos="slide-up"
             data-aos-duration="500"
