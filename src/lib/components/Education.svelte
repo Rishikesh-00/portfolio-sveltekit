@@ -39,7 +39,7 @@
                         </h3>
                         <p class="text-white">
                           <span> Vivekanands Global University, Jaipur </span><br>
-                          <span class="text-xs">Aggregate: 8.59 CGPA (upto 2<sup>nd sem</sup>)</span>
+                          <span class="text-xs">Aggregate: 8.59 CGPA</span>
                         </p>
                     </div>
                     <div data-aos="zoom-in" data-aos-duration="500"

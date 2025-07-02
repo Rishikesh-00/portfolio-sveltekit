@@ -29,9 +29,7 @@
         data-aos="slide-up"
         data-aos-duration="500"
       >
-        Hey, my name is Rishikesh. Currently, I am pursuing MCA. I love to work
-        on applications using technologies like Svelte, Tailwind CSS, Nodejs,
-        and MySQL.
+        Hey there! I'm Rishikesh — a full-stack developer (MCA grad) passionate about building sleek web experiences with React.Js and the modern web stack.
       </p>
       <div class="flex">
         <a
