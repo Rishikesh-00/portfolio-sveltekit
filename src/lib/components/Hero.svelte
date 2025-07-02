@@ -5,7 +5,7 @@
   import MyImage from "../assets/pro.jpeg";
   import Resume from "../assets/Rishikesh_resume.pdf";
   onMount(() => {
-    AOS.init({ duration: 1000 });
+    // AOS.init({ duration: 1000 });
   });
 </script>
 

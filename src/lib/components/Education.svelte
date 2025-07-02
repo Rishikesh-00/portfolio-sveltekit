@@ -111,7 +111,25 @@
                             class="absolute -left-10 top-3 w-4 h-4 bg-emerald-600 rounded-full border-2 border-white"
                         ></div>
                         <h4 class="text-emerald-600 font-medium">
-                            June '24 - Present
+                            Feb '25 - Present
+                        </h4>
+                        <h3 class="text-lg text-white py-2 font-semibold">
+                           Almabay Networks Pvt. Ltd, Chandigarh
+                        </h3>
+                        <span class="py-2 font-bold text-md">React.Js Inten</span>
+
+                        <p class="text-white py-2 text-xs">
+                            Working with React.Js
+                        </p>
+                    </div>
+                    <div data-aos="zoom-in" data-aos-duration="500"
+                        class="relative rounded-md p-5 border border-gray-200 bg-gray-800 shadow-sm hover:shadow-md transition-all duration-300"
+                    >
+                        <div
+                            class="absolute -left-10 top-3 w-4 h-4 bg-emerald-600 rounded-full border-2 border-white"
+                        ></div>
+                        <h4 class="text-emerald-600 font-medium">
+                            July '24 - Sept'24
                         </h4>
                         <h3 class="text-lg text-white py-2 font-semibold">
                            TensaX innovation lab, Jaipur
