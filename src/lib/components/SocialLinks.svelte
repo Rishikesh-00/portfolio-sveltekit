@@ -27,7 +27,7 @@
         icon: "bx bxs-user-detail",
         href: Resume,
         style: "rounded-br-md",
-        download: true,
+        download: "Rishikesh_resume",
       },
     ];
   </script>

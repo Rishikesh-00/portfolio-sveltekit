@@ -22,14 +22,14 @@
         data-aos="fade-out"
         data-aos-duration="1500"
       >
-        I'm a Full Stack Developer
+        I build React apps that ship, not just run in localhost
       </h2>
       <p
         class="text-gray-500 py-4 max-w-md"
         data-aos="slide-up"
         data-aos-duration="500"
       >
-        Hey there! I'm Rishikesh — a full-stack developer (MCA grad) passionate about building sleek web experiences with React.Js and the modern web stack.
+        I'm Rishikesh, a React.js Associate with 1+ year of experience turning complex product requirements into fast, production-ready interfaces — currently building AI-powered platforms in React.js, Next.js, and TypeScript.
       </p>
       <div class="flex">
         <a

@@ -39,7 +39,7 @@
                         </h3>
                         <p class="text-white">
                           <span> Vivekanands Global University, Jaipur </span><br>
-                          <span class="text-xs">Aggregate: 8.59 CGPA</span>
+                          <span class="text-xs">Aggregate: 8.49 CGPA</span>
                         </p>
                     </div>
                     <div data-aos="zoom-in" data-aos-duration="500"
@@ -101,9 +101,27 @@
                 <header
                     class="pb-5 pl-8 text-emerald-600 font-semibold text-xl"
                 >
-                    <h2>INTERNSHIPS</h2>
+                    <h2>EXPERIENCES</h2>
                 </header>
                 <div class="border-l-2 border-gray-300 px-8 space-y-5">
+                 <div data-aos="zoom-in" data-aos-duration="500"
+                        class="relative rounded-md p-5 border border-gray-200 bg-gray-800 shadow-sm hover:shadow-md transition-all duration-300"
+                    >
+                        <div
+                            class="absolute -left-10 top-3 w-4 h-4 bg-emerald-600 rounded-full border-2 border-white"
+                        ></div>
+                        <h4 class="text-emerald-600 font-medium">
+                            Aug '25 - Present
+                        </h4>
+                        <h3 class="text-lg text-white py-2 font-semibold">
+                           Almabay Networks Pvt. Ltd, Chandigarh
+                        </h3>
+                        <span class="py-2 font-bold text-md">Associate React.Js Developer</span>
+
+                        <p class="text-white py-2 text-xs">
+                            Working with React.Js
+                        </p>
+                    </div>
                     <div data-aos="zoom-in" data-aos-duration="500"
                         class="relative rounded-md p-5 border border-gray-200 bg-gray-800 shadow-sm hover:shadow-md transition-all duration-300"
                     >
@@ -111,7 +129,7 @@
                             class="absolute -left-10 top-3 w-4 h-4 bg-emerald-600 rounded-full border-2 border-white"
                         ></div>
                         <h4 class="text-emerald-600 font-medium">
-                            Feb '25 - Present
+                            Feb '25 - Aug '25
                         </h4>
                         <h3 class="text-lg text-white py-2 font-semibold">
                            Almabay Networks Pvt. Ltd, Chandigarh
